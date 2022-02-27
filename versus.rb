@@ -3,7 +3,7 @@ require_relative 'obscene_rapers'
 require_relative 'top_words'
 
 class Versus
-  FILES_PATH = Dir['./rap-battles/*'].freeze
+  FILES_PATH = Dir['./*'].freeze
 
   attr_reader :value, :name
 

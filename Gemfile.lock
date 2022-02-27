@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    optparse (0.2.0)
+    russian_obscenity (0.0.1)
+    terminal-table (3.0.2)
+      unicode-display_width (>= 1.1.1, < 3)
+    unicode-display_width (2.1.0)
+
+PLATFORMS
+  arm64-darwin-20
+
+DEPENDENCIES
+  optparse
+  russian_obscenity
+  terminal-table
+
+BUNDLED WITH
+   2.3.5
